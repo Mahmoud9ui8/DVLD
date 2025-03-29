@@ -2,6 +2,6 @@
 #                           C# 
 
 Technologies used :
-C# language
-// Three tier architecture 
+-- C# language
+- Three tier architecture 
 There is a database that storage data automatically...
