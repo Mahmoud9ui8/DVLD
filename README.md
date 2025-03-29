@@ -1,7 +1,7 @@
-# This is Driving & vehicle lincese department (DVLD) system
-#                           C# 
+# In general 
+ This is Driving & vehicle lincese department (DVLD) system 
 
-Technologies used :
--- C# language
+# Technologies used :
+- C# language
 - Three tier architecture 
-There is a database that storage data automatically...
+- Database that storage data 
