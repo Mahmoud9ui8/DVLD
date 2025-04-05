@@ -2,11 +2,11 @@
 # DVLD
  This is Driving & vehicle lincese department (DVLD) system 
 # Description 
-Driving & Vehicle License Department (DVLD). It's a desktop application where people can apply for issuing a driving license and take some tests to get it.
+ Driving & Vehicle License Department (DVLD). It's a desktop application where people can apply for issuing a driving license and take some tests to get it.
 # Technologies used :
 - C# language
 - Three tier architecture 
-- Database that storage data 
+- SQL Database that storage data 
 # Screenshots 
 - ![Screenshot](https://github.com/Mahmoud9ui8/DVLD/blob/main/Screenshot%20(24).png)
 - ![Screenshot](https://github.com/Mahmoud9ui8/DVLD/blob/main/Screenshot%20(25).png) 
